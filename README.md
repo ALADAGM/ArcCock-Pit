@@ -22,10 +22,13 @@ Enable application owners to apply and audit to meet their own requirements
 Measure and remediate compliance at scale and down to the individual workload/server 
 
 # What is NOC (Network Operation Center)
+
 “Network Operations Center (NOC) is the centralized platform from which information technology (IT) teams, either internal or outsourced; supervise, monitor, manage, and maintain organization systems, servers, platforms, services, and network.” 
 
-# What is NOC (Network Operation Center)
-“Network Operations Center (NOC) is the centralized platform from which information technology (IT) teams, either internal or outsourced; supervise, monitor, manage, and maintain organization systems, servers, platforms, services, and network.” 
+# What is SOC (Security Operation Center )
+
+“Security Operations Center (SOC) is the centralized platform responsible for monitoring and managing an organization's security posture, incident detection, and response. It is typically staffed by security professionals who are responsible for identifying, responding to and mitigating security threats. In short, a SOC team is responsible for making sure an organization is operating securely at all times…” ![image](https://github.com/ALADAGM/ArcCock-Pit/assets/3506526/e752d5a1-7626-4913-927f-7a6777348023)
+
 
 # Arc Cock-Pit NOC & SOC Solutions (All-in-One)
 Intelligently adapt and onboard to best practices.
