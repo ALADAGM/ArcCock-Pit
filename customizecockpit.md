@@ -7,7 +7,9 @@
 
 - Install [Power BI Desktop](https://powerbi.microsoft.com/en-us/downloads/)
 - Download the [PBIX file](/Arc-Cock-Pit-Dashboard.pbix)
-- Core Business & IT Services Part Customization
+
+### Core Business & IT Services Part Customization
+
   - Enter Azure Monitor or Log Analytics Workspace ID
    ![image](https://github.com/ALADAGM/ArcCock-Pit/assets/3506526/5cce2f07-1520-472f-8064-aef14c982fe7)
   - Login Power BI by using Organizational Azure AD Login Credentials having Min. Read access into Azure Monitor or Log Analytics Workspace Subscription.
@@ -23,7 +25,7 @@
   - Update Azure Monitor or Log Analytics Workspace ID in Table Queries
   ![image](https://github.com/ALADAGM/ArcCock-Pit/assets/3506526/b457cc68-aec2-4b5e-8ad4-619d47b0cfe2)
 
-## Security Alerts Part Customization
+### Security Alerts Part Customization
 
 - Create Microsoft Sentinel and Activate Sentinel Workspace with Azure Monitor or Log Analytics Workspace Provisioned Above
 - Activate Defender for Cloud and Configure Security Alerts, Recommendations to Sentinel Workspace

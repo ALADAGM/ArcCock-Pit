@@ -12,10 +12,12 @@ The sprawl is overwhelming, and it is impossible to manage and apply consistent 
 
 ![image](https://github.com/ALADAGM/ArcCock-Pit/assets/3506526/d70b72b8-dd22-4cab-85c1-443d88c5102a)
 
+
+
 ## How to enable Cock-Pit on Day Zero
 
 1. Follow the [prerequisites](/prerequisites.md)
-2. Customize the [Arc Cockpit](/customizecockpit.md)
+2. Customize the Arc Cockpit(/customizecockpit.md)
 
 ## Arc Cock-Pit NOC & SOC Solutions (All-in-One)
 

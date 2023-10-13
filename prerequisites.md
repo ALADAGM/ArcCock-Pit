@@ -1,4 +1,4 @@
-# How to enable Cock-Pit on Day Zero 
+# How to enable Cock-Pit on Day Zero
 
 ## Arc Cock-Pit Prerequisites
 
@@ -17,8 +17,6 @@
   - Collect events and performance counters from virtual machines with [Azure Monitor Agent](https://learn.microsoft.com/en-us/azure/azure-monitor/agents/data-collection-rule-azure-monitor-agent?tabs=portal)
   - Collect Windows and Linux [performance data sources with the Log Analytics agent in Azure Monitor](https://learn.microsoft.com/en-us/azure/azure-monitor/agents/data-sources-performance-counters)
 - [Customize Arc Cock-Pit](/customizecockpit.md)
-
-## Private Link
 
 ### Azure Arc Cock-Pit via Private link Architecture
 
@@ -42,4 +40,3 @@ Plan and complete networking requirements for all the servers to be onboarded to
 
 > [!IMPORTANT]
 > All the servers installed Arc Connected Machine Agent includes SQL Server Extension automatically if the server has SQL Server installed
-
