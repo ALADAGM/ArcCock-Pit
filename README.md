@@ -12,12 +12,21 @@ The sprawl is overwhelming, and it is impossible to manage and apply consistent 
 
 ![image](https://github.com/ALADAGM/ArcCock-Pit/assets/3506526/d70b72b8-dd22-4cab-85c1-443d88c5102a)
 
+## Business requirements
 
+Out of the box creation of NOC and SOC capabilities in day one.
+Manage a mix of bare metal, Windows and Linux servers across locations and disparate systems
+Visibility across locations, OS flavors, SQL instances and disparate systems
+Manage, Secure, govern, Monitor environments, SQL workloads, servers, systems via Azure Arc
+Security posture management and threat protection across hybrid cloud resources
+Enable IT to apply at scale governance and security policies across all environments
+Enable application owners to apply and audit to meet their own requirements
+Measure and remediate compliance at scale and down to the individual workload/server
 
 ## How to enable Cock-Pit on Day Zero
 
 1. Follow the [prerequisites](/prerequisites.md)
-2. Customize the Arc Cockpit(/customizecockpit.md)
+2. Customize the [Arc Cockpit](/customizecockpit.md)
 
 ## Arc Cock-Pit NOC & SOC Solutions (All-in-One)
 
