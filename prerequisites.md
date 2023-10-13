@@ -9,14 +9,14 @@
   - Define networking access from Firewall or Proxy for all the URLs. See details [here](https://learn.microsoft.com/en-us/azure/azure-arc/servers/network-requirements?tabs=azure-cloud)
   - For Private Link see the [details below](#azure-arc-cock-pit-via-private-link-architecture)
 - Onboard all Windows/Linux servers, SQL Servers to Azure Arc by using [Azure Private Link](https://learn.microsoft.com/en-us/azure/azure-arc/servers/private-link-security)
-  > [!NOTE]
+  > [!IMPORTANT]
   > All the servers installed Arc Connected Machine Agent includes SQL Server Extension automatically if the server has SQL Server installed.
 - Deploy Azure Monitor or Log Analytics Agent Extension to all servers, systems to be onboarded into the Arc Cock-Pit
 - Configure Azure Monitor Data Collection Rules or Log Analytics Performance Counters or  Logs to be collected based on your telemetry requirements
   - [Data collection rules in Azure Monitor](https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/data-collection-rule-overview)
   - Collect events and performance counters from virtual machines with [Azure Monitor Agent](https://learn.microsoft.com/en-us/azure/azure-monitor/agents/data-collection-rule-azure-monitor-agent?tabs=portal)
   - Collect Windows and Linux [performance data sources with the Log Analytics agent in Azure Monitor](https://learn.microsoft.com/en-us/azure/azure-monitor/agents/data-sources-performance-counters)
-- Customize Arc Cock-Pit based on your credentials and inventory
+- [Customize Arc Cock-Pit](/customizecockpit.md)
 
 ## Private Link
 
@@ -43,4 +43,3 @@ Plan and complete networking requirements for all the servers to be onboarded to
 > [!IMPORTANT]
 > All the servers installed Arc Connected Machine Agent includes SQL Server Extension automatically if the server has SQL Server installed
 
-    Note: All the servers installed Arc Connected Machine Agent includes SQL Server Extension automatically if the server has SQL Server installed.

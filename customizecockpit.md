@@ -2,22 +2,25 @@
 
 ## Power BI Dashboard Customization
 
+> [!IMPORTANT]
+> This is the 1st release of Arc Cock-Pit IP. This is a long journey. So, please, share your questions, feedbacks, recommendations, issues, every constructive feedback will be invaluable for us.
+
 - Install [Power BI Desktop](https://powerbi.microsoft.com/en-us/downloads/)
-- Download the [PBIX file](/Arc%20Cock-Pit%20Dashboard.pbix)
+- Download the [PBIX file](/Arc-Cock-Pit-Dashboard.pbix)
 - Core Business & IT Services Part Customization
-  - Enter Azure Monitor or Log Analytics Workspace ID (I)
+  - Enter Azure Monitor or Log Analytics Workspace ID
    ![image](https://github.com/ALADAGM/ArcCock-Pit/assets/3506526/5cce2f07-1520-472f-8064-aef14c982fe7)
-  - Login Power BI by using Organizational Azure AD Login Credentials having Min. Read access into Azure Monitor or Log Analytics Workspace Subscription. (II)
+  - Login Power BI by using Organizational Azure AD Login Credentials having Min. Read access into Azure Monitor or Log Analytics Workspace Subscription.
   ![image](https://github.com/ALADAGM/ArcCock-Pit/assets/3506526/0b519cc7-a84d-496b-a86e-bb0742d32c64)
-  - Update Computer Groups (III)
+  - Update Computer Groups
   ![image](https://github.com/ALADAGM/ArcCock-Pit/assets/3506526/f971b453-f0e1-45be-8cb6-1a85b61a1799)
-  - Update or Enter Location Information (IV)
+  - Update or Enter Location Information
   ![image](https://github.com/ALADAGM/ArcCock-Pit/assets/3506526/f4456a06-57f3-4a6c-a504-dae762eb5ccc)
-  - Update Computer Groups and KPI (V)
+  - Update Computer Groups and KPI
   ![image](https://github.com/ALADAGM/ArcCock-Pit/assets/3506526/57e029d7-953a-4085-8661-caa439c1e37c)
-  - Update Computer Subnet List (VI)
+  - Update Computer Subnet List
   ![image](https://github.com/ALADAGM/ArcCock-Pit/assets/3506526/f11b98a2-5b8b-4378-bbd4-06982e232ccf)
-  - Update Azure Monitor or Log Analytics Workspace ID in Table Queries (VII)
+  - Update Azure Monitor or Log Analytics Workspace ID in Table Queries
   ![image](https://github.com/ALADAGM/ArcCock-Pit/assets/3506526/b457cc68-aec2-4b5e-8ad4-619d47b0cfe2)
 
 ## Security Alerts Part Customization
@@ -55,5 +58,3 @@
 
 ![image](https://github.com/ALADAGM/ArcCock-Pit/assets/3506526/ba0f82a8-f225-4506-a40f-04fa627f9552)
 
-> [!IMPORTANT]
-> This is the 1st release of Arc Cock-Pit IP. This is a long journey. So, Please Please Please, Share Your Questions, Feedbacks, Recommendations, Issues, Every Constructive Feedback will be invaluable for us
